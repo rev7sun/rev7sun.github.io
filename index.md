@@ -1,6 +1,8 @@
-# endviewer
+# rev7sun
 
-endviewer is a small Discord bot for Clash of Clans legend league one (1) day overviews and player-oriented statistics :D
+## endviewer
 
-- [Privacy Policy](./privacy)
-- [Terms of Service](./terms)
+endviewer is a small Discord bot for Clash of Clans Legend League one-day overviews and player-oriented statistics :D
+
+- [Privacy Policy](/endviewer/privacy)
+- [Terms of Service](/endviewer/terms)
